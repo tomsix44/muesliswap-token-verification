@@ -1,0 +1,17 @@
+{
+  "policyId": "9d05077f2e6dcb17915f9b99bc443726939dd2047aafd6cb4a6fe017",
+  "name": "ROLL Token",
+  "symbol": "ROLL",
+  "website": "https://farmroll.io/",
+  "description": "$ROLL is Farmroll's utility token.",
+  "totalSupply": 567200000000000,
+  "decimalPlaces": 6,
+  "amounts": [
+    1,
+    10,
+    100,
+    1000,
+    10000,
+    100000
+  ]
+}
